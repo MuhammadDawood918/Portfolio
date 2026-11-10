@@ -8,7 +8,7 @@ const DATA = {
     location: 'Faisalabad, Pakistan · Open to remote collaboration',
     email: 'dawood.6509@gmail.com',   // contact-form messages are delivered to this address
      cvPath: '',   // cvPath e.g. 'assets/cv.pdf'
-    photo: 'assets/Professional Formal Headshot.png',    // ← YOUR PICTURE: the only line you need. Put your photo at this path (or change the path). Shown in the hero and in About.
+    photo: 'Professional Formal Headshot.png',    // ← YOUR PICTURE: the only line you need. Put your photo at this path (or change the path). Shown in the hero and in About.
     photo2: '',   // picture under the quote on the left of About, e.g. 'assets/field.jpg'  — leave '' to hide it
     availability: 'Available for research collaborations and geospatial projects',
     links: { linkedin: '', github: '', scholar: '' },
