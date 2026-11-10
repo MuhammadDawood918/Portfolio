@@ -77,7 +77,7 @@ const DATA = {
     date: '30 September2026',
     issuer: 'GEO University',
     description: 'Certificate in Earth observation and satellite data analysis.',
-    image: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/Certificate on Earth Observation Embedding_From Pixel to Vector.jpg',
+    image: 'Certificate on Earth Observation Embedding_From Pixel to Vector.jpg',
   },
 
   {
@@ -95,7 +95,7 @@ const DATA = {
     date: '05 Nov 2025',
     issuer: 'ESRI',
     description: 'Getting Started with Mapping and Visualization teaches how to create, interpret, and present geographic data using maps and visual tools to reveal patterns and insights effectively.',
-    link: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/Getting Started with Mapping and Visualization_Certificate_11052025.pdf',
+    link: 'Getting Started with Mapping and Visualization_Certificate_11052025.pdf',
   },
 
   {
@@ -104,7 +104,7 @@ const DATA = {
     date: '09 November 2025',
     issuer: 'NASA ARSET',
     description: 'Completed Esri online training in GIS data management, covering data organization, editing, quality, and efficient geospatial dataset maintenance.',
-    link: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/0565808579MD.pdf',
+    link: 'Certificate/0565808579MD.pdf',
   },
 
   {
@@ -112,7 +112,7 @@ const DATA = {
     org: 'OEC & ICMPD',
     date: '01 January 2026',
     issuer: 'OEC & ICMPD',
-    link: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/certificate_softskill_2c3c0f1c.pdf',
+    link: 'certificate_softskill_2c3c0f1c.pdf',
   },
 
    {
@@ -121,7 +121,7 @@ const DATA = {
     date: '12 Nov 2025',
     issuer: 'ESRI',
     description: 'Getting Started with Spatial Analysis teaches how to explore and interpret geographic data using GIS tools to identify patterns, relationships, and trends for informed decision-making.',
-    link: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/Getting Started with Spatial Analysis_Certificate_11122025.pdf',
+    link: 'Getting Started with Spatial Analysis_Certificate_11122025.pdf',
   },
 
    {
@@ -130,7 +130,7 @@ const DATA = {
     date: '19 June 2026',
     issuer: 'ESRI',
     description: 'Completed Esri online training in GIS data management, covering data organization, editing, quality, and efficient geospatial dataset maintenance.',
-    link: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/Getting Started with Data Management_Certificate_06192026.pdf',
+    link: 'Getting Started with Data Management_Certificate_06192026.pdf',
   },
 
    {
@@ -139,7 +139,7 @@ const DATA = {
     date: '05 November 2025',
     issuer: 'ESRI',
     description: 'ArcGIS Pro Basics introduces the core features of ArcGIS Pro for creating, analyzing, and visualizing spatial data using modern GIS tools.',
-    link: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/ArcGIS Pro Basics_Certificate_11052025.pdf',
+    link: 'ArcGIS Pro Basics_Certificate_11052025.pdf',
   },
 
   {
@@ -148,7 +148,7 @@ const DATA = {
     date: '05 November 2025',
     issuer: 'ESRI',
     description: 'GIS Basics covers the fundamentals of Geographic Information Systems, including mapping, spatial data management, and basic spatial analysis.',
-    link: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/GIS Basics_Certificate_11052025.pdf',
+    link: 'GIS Basics_Certificate_11052025.pdf',
   },
 
 
