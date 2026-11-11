@@ -104,7 +104,7 @@ const DATA = {
     date: '09 November 2025',
     issuer: 'NASA ARSET',
     description: 'Completed Esri online training in GIS data management, covering data organization, editing, quality, and efficient geospatial dataset maintenance.',
-    link: '0565808579MD.pdf',
+    file: '0565808579MD.pdf',
   },
 
   {
