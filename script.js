@@ -86,7 +86,7 @@ const DATA = {
     date: '28 September 2026',
     issuer: 'UNU INWEH',
     description: 'Explored the capabilities of Chinese Earth Observation satellites and their potential for sustainable development applications. Developed an understanding of how satellite-derived data can support environmental monitoring, natural resource management, disaster assessment, and geospatial analysis.',
-    file: 'C:/Users/dawoo/Downloads/Portfolio/Certificate/EOFD HPCS UN Certificate.pdf',
+    file: 'EOFD HPCS UN Certificate.pdf',
   },
 
    {
@@ -189,7 +189,7 @@ const DATA = {
     ['Remote Sensing', 'RS', [['Sentinel-1 / SAR', 72], ['Sentinel-2 / multispectral', 78], ['Landsat / MODIS', 82], ['NDVI / NDWI / LST', 80], ['Change detection', 68]]],
     ['GIS & Cartography', 'GIS', [['QGIS / ArcGIS Pro', 84], ['Spatial analysis', 82], ['Geoprocessing', 78], ['Geodatabases / cartography', 76]]],
     ['Programming', 'DEV', [['Python', 74], ['JavaScript / React', 64], ['SQL', 58], ['HTML / CSS', 70]]],
-    ['Geospatial Python', 'PY', [['GeoPandas / Shapely', 72], ['Rasterio / GDAL', 66], ['NumPy / Pandas', 72], ['Folium / Matplotlib', 68]]],
+    ['Geospatial Python', 'PY', [['Rasterio / GDAL', 66], ['Folium / Matplotlib', 68]]],
     ['Google Earth Engine', 'GEE', [['JavaScript API', 76], ['Image processing', 78], ['Time-series analysis', 70], ['Classification', 66]]],
     ['Data & Web Mapping', 'WEB', [['PostgreSQL / PostGIS', 52], ['Leaflet / WebGIS', 68], ['Chart.js / dashboards', 62], ['GeoJSON / REST APIs', 64]]]
   ],
@@ -262,7 +262,7 @@ const DATA = {
 
   tech: ['Google Earth Engine', 'Python', 'Flask', 'JavaScript', 'Leaflet'],
   location: [31.17, 72.70],                  // [latitude, longitude], roughly central Punjab
-  cover: 'C:/Users/dawoo/Pictures/Screenshots/cover.png'         // optional: a screenshot of the dashboard
+  cover: 'cover.png'         // optional: a screenshot of the dashboard
 },
     {
       title: 'Temporal Dynamics and Spatial Patterns of Land Surface Temperature in Faisalabad District Using Satellite Remote Sensing',
@@ -292,24 +292,24 @@ const DATA = {
       location: [31.42, 73.08],                     // [latitude, longitude]
       cover: 'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Study Area.png',        // optional card cover image
       images: [                                     // optional, shown on the project page
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Study Area.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Year 2000.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Graph 2000.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Year 2005.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Graph 2005.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/year 2011.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/graph 2011.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Year 2017.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/graph 2017.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Year 2023.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Graph 2023.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/graph Analysis.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Mean Maximum LST.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Mean Min LST.png'
+        'Study Area.png',
+        'Year 2000.png',
+        'Graph 2000.png',
+        'Year 2005.png',
+        'Graph 2005.png',
+        'year 2011.png',
+        'graph 2011.png',
+        'Year 2017.png',
+        'graph 2017.png',
+        'Year 2023.png',
+        'Graph 2023.png',
+        'graph Analysis.png',
+        'Mean Maximum LST.png',
+        'Mean Min LST.png'
       ],
       compare: {                                    // optional before/after image pair
-        before: 'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Year 2000.png',
-        after: 'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Year 2023.png'
+        before: 'Year 2000.png',
+        after: 'Year 2023.png'
       },
         comparison: {
         title: 'Land Surface Temperature by year',
@@ -351,26 +351,26 @@ const DATA = {
       ],
       tech: ['ArcGIS Pro', 'R', 'GEE'],
       location: [31.54972, 74.34361],                     // [latitude, longitude]
-      cover: 'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/R-2023.png',        // optional card cover image
+      cover: 'R-2023.png',        // optional card cover image
       images: [                                     // optional, shown on the project page
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/ML-2014.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/R-2014.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/D-2014.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/Kappa Constant 2014.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/ML-2023.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/R-2023.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/d-2023.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/Kappa Constant 2023.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/C-C CD.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/CD by FM.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/AC .png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/T-AC.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/Transition Area change.png',
-        'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/AC-Graph.png'
+        'ML-2014.png',
+        'R-2014.png',
+        'D-2014.png',
+        'Kappa Constant 2014.png',
+        'ML-2023.png',
+        'R-2023.png',
+        'd-2023.png',
+        'Kappa Constant 2023.png',
+        'C-C CD.png',
+        'CD by FM.png',
+        'AC .png',
+        'T-AC.png',
+        'Transition Area change.png',
+        'AC-Graph.png'
       ],
       compare: {                                    // optional before/after image pair
-        before: 'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/C-C CD.png',
-        after: 'C:/Users/dawoo/Downloads/Portfolio/Projects/Change Detection Images/CD by FM.png'
+        before: 'C-C CD.png',
+        after: 'CD by FM.png'
       },
       comparison: {
         title: 'Land cover transition area, 2014–2023',
@@ -405,14 +405,14 @@ const DATA = {
      To use a real photo/map, put it in an "images" folder and add its path as the 6th value, e.g. 'images/lst-map.jpg' */
   galleryFilters: ['All', 'Maps', 'Field', 'Dashboards'],
   gallery: [
-    ['Field', 'Drone survey', 'Drone imagery from field operations.', 'g1', '🚁', "C:/Users/dawoo/Downloads/Portfolio/Gallery/Drone.png"],
-    ['Field', 'Drone imagery survey', 'Aerial drone imagery captured during field operations.', 'g5', '🚁', "C:/Users/dawoo/Downloads/Portfolio/Gallery/Drone Imagery.jpg"],
-    ['Maps', 'GeoTiff map maker tool', 'A simple tool that turns GeoTIFF files into clean, ready-to-use maps.', 'g2', '🗺', 'C:/Users/dawoo/Downloads/Portfolio/Gallery/Geotiff map maker tool.PNG'],
-    ['Office', 'Award', 'Emerging Profesional of the year 2025.', 'g3', '📡', 'C:/Users/dawoo/Downloads/Portfolio/Gallery/Talented Award.jpeg'],
-    ['Field', 'Geospatial Visualization', 'Field Map Display Activity in the Pulse project visualizes field locations and operational activities on an interactive map for efficient monitoring and decision-making.', 'g6', '📍', 'C:/Users/dawoo/Downloads/Portfolio/Gallery/Field.jpeg'],
-    ['Dashboards', 'Climate indicator dashboard', 'Rainfall, temperature and NDVI at a glance (sample).', 'g4', '📊', "C:/Users/dawoo/Downloads/Portfolio/Gallery/Dashboard.png"],
-    ['Maps', 'Geospatial Monitoring', 'It provides a clear geographical overview of field operations, helping users track activities and analyze spatial data efficiently.', 'g1', '🏙', 'C:/Users/dawoo/Downloads/Portfolio/Gallery/Field2.jpeg'],
-    ['Field', 'Fieldwork notes', 'Observations and photos linked to map layers (sample).', 'g5', '🥾', "C:/Users/dawoo/Downloads/Portfolio/Gallery/RTK DGPS.jpg"]
+    ['Field', 'Drone survey', 'Drone imagery from field operations.', 'g1', '🚁', "Drone.png"],
+    ['Field', 'Drone imagery survey', 'Aerial drone imagery captured during field operations.', 'g5', '🚁', "Drone Imagery.jpg"],
+    ['Maps', 'GeoTiff map maker tool', 'A simple tool that turns GeoTIFF files into clean, ready-to-use maps.', 'g2', '🗺', 'Geotiff map maker tool.PNG'],
+    ['Office', 'Award', 'Emerging Profesional of the year 2025.', 'g3', '📡', 'Talented Award.jpeg'],
+    ['Field', 'Geospatial Visualization', 'Field Map Display Activity in the Pulse project visualizes field locations and operational activities on an interactive map for efficient monitoring and decision-making.', 'g6', '📍', 'Field.jpeg'],
+    ['Dashboards', 'Climate indicator dashboard', 'Rainfall, temperature and NDVI at a glance (sample).', 'g4', '📊', "Dashboard.png"],
+    ['Maps', 'Geospatial Monitoring', 'It provides a clear geographical overview of field operations, helping users track activities and analyze spatial data efficiently.', 'g1', '🏙', 'Field2.jpeg'],
+    ['Field', 'Fieldwork notes', 'Observations and photos linked to map layers (sample).', 'g5', '🥾', "RTK DGPS.jpg"]
   ]
 };
 
