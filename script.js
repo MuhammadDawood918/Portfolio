@@ -242,7 +242,7 @@ const DATA = {
   color: 'green',                            // blue | sand | green | lime | purple
   link: 'https://dawood918.pythonanywhere.com',   // opens the live dashboard
 
-  summary: 'GeoVista is a live web dashboard that turns satellite and weather data into crop health, drought, irrigation and pest-risk information for any division, district or tehsil of Punjab, Pakistan. Analyses run on Google Earth Engine and produce statistics, maps, PDF reports and downloadable GeoTIFF files.',
+  summary: 'ORBIVEXIS is a live web dashboard that turns satellite and weather data into crop health, drought, irrigation and pest-risk information for any division, district or tehsil of Punjab, Pakistan. Analyses run on Google Earth Engine and produce statistics, maps, PDF reports and downloadable GeoTIFF files.',
 
   problem: [
     'Farmers, planners and researchers in Punjab need up-to-date information on crop condition, water stress and drought, but satellite data is hard to access and process without specialist GIS skills.',
