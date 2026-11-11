@@ -232,7 +232,7 @@ const DATA = {
 
   tech: ['JavaScript', 'HTML5 Canvas', 'geotiff.js', 'proj4', 'shpjs', 'jsPDF'],
   location: [31.17, 72.70],                  // [latitude, longitude]; optional, change it or remove it if the tool isn't tied to a place
-  cover: 'C:/Users/dawoo/Downloads/Portfolio/Gallery/Geotiff map maker tool.png'   // a screenshot of the tool or one of its finished maps
+  cover: 'Geotiff map maker tool.png'   // a screenshot of the tool or one of its finished maps
 },
 
     {
@@ -262,7 +262,7 @@ const DATA = {
 
   tech: ['Google Earth Engine', 'Python', 'Flask', 'JavaScript', 'Leaflet'],
   location: [31.17, 72.70],                  // [latitude, longitude], roughly central Punjab
-  cover: 'cover.png'         // optional: a screenshot of the dashboard
+  cover: 'Cover.png'         // optional: a screenshot of the dashboard
 },
     {
       title: 'Temporal Dynamics and Spatial Patterns of Land Surface Temperature in Faisalabad District Using Satellite Remote Sensing',
