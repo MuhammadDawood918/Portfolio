@@ -236,7 +236,7 @@ const DATA = {
 },
 
     {
-  title: 'GeoVista: Punjab Satellite Analytics Dashboard',
+  title: 'ORBIVEXIS: Punjab Satellite Analytics Dashboard',
   cats: ['GIS', 'Environmental','WebGIS', 'Programming'],            // must match names in DATA.filters
   date: 'Project · 2026',
   color: 'green',                            // blue | sand | green | lime | purple
