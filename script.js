@@ -290,7 +290,7 @@ const DATA = {
       ],
       tech: ['ArcGIS Pro', 'R', 'GEE'],
       location: [31.42, 73.08],                     // [latitude, longitude]
-      cover: 'C:/Users/dawoo/Downloads/Portfolio/Projects/LST Images/Study Area.png',        // optional card cover image
+      cover: 'Study Area.png',        // optional card cover image
       images: [                                     // optional, shown on the project page
         'Study Area.png',
         'Year 2000.png',
