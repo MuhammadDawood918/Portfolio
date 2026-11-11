@@ -407,7 +407,7 @@ const DATA = {
   gallery: [
     ['Field', 'Drone survey', 'Drone imagery from field operations.', 'g1', '🚁', "Drone.png"],
     ['Field', 'Drone imagery survey', 'Aerial drone imagery captured during field operations.', 'g5', '🚁', "Drone Imagery.jpg"],
-    ['Maps', 'GeoTiff map maker tool', 'A simple tool that turns GeoTIFF files into clean, ready-to-use maps.', 'g2', '🗺', 'Geotiff map maker tool.PNG'],
+    ['Maps', 'GeoTiff map maker tool', 'A simple tool that turns GeoTIFF files into clean, ready-to-use maps.', 'g2', '🗺', 'Geotiff map maker tool.png'],
     ['Office', 'Award', 'Emerging Profesional of the year 2025.', 'g3', '📡', 'Talented Award.jpeg'],
     ['Field', 'Geospatial Visualization', 'Field Map Display Activity in the Pulse project visualizes field locations and operational activities on an interactive map for efficient monitoring and decision-making.', 'g6', '📍', 'Field.jpeg'],
     ['Dashboards', 'Climate indicator dashboard', 'Rainfall, temperature and NDVI at a glance (sample).', 'g4', '📊', "Dashboard.png"],
